@@ -1,0 +1,74 @@
+.heading {
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px cornflowerblue;
+
+}
+
+.note {
+
+    font-size: 15px;
+    color: black;
+
+}
+
+.div_speed {
+
+    float: left;
+
+}
+
+.div_speed_img {
+
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+#speed {
+
+    font-size: 18px;
+    margin: 15px;
+    box-shadow: 5px 5px 18px greenyellow;
+
+}
+
+.div_volume {
+
+    float: right;
+
+}
+
+.div_volume_img {
+
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+#volume {
+
+    font-size: 18px;
+    margin: 15px;
+    box-shadow: 5px 5px 18px greenyellow;
+
+}
+
+.play {
+
+    width: 130px;
+    font-size: 25px;
+
+}
+
+
+canvas {
+
+    border: 5px solid blue;
+    border-radius: 5px;
+    box-shadow: 5px 7px 15px aqua;
+    margin-top: 105px;
+
+}
